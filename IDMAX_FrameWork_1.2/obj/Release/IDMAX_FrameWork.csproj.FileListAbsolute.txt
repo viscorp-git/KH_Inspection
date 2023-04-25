@@ -1,0 +1,256 @@
+D:\20190112_1608\IDMAX_FrameWork_1.0\bin\Release\IDMAX_FrameWork.dll
+D:\20190112_1608\IDMAX_FrameWork_1.0\bin\Release\IDMAX_FrameWork.pdb
+D:\20190112_1608\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.csprojResolveAssemblyReference.cache
+D:\20190112_1608\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.CollapsiblePanel.resources
+D:\20190112_1608\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.CollapsiblePanelOld.resources
+D:\20190112_1608\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.DigitalDisplayControl.resources
+D:\20190112_1608\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.IconLamp.resources
+D:\20190112_1608\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.Keypad.resources
+D:\20190112_1608\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.Lamp.resources
+D:\20190112_1608\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.ListViewEx.resources
+D:\20190112_1608\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.MsgBox.resources
+D:\20190112_1608\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+D:\20190112_1608\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.OutlookPanelEx.resources
+D:\20190112_1608\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.PingChecker.resources
+D:\20190112_1608\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.ProgressIndicator.resources
+D:\20190112_1608\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.StopWatchEx.resources
+D:\20190112_1608\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.TitleLamp.resources
+D:\20190112_1608\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.VerticalProgressBar.resources
+D:\20190112_1608\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.csproj.GenerateResource.Cache
+D:\20190112_1608\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.dll
+D:\20190112_1608\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.pdb
+D:\20190117_1243\IDMAX_FrameWork_1.0\bin\Release\IDMAX_FrameWork.dll
+D:\20190117_1243\IDMAX_FrameWork_1.0\bin\Release\IDMAX_FrameWork.pdb
+D:\20190117_1243\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.csprojResolveAssemblyReference.cache
+D:\20190117_1243\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.CollapsiblePanel.resources
+D:\20190117_1243\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.CollapsiblePanelOld.resources
+D:\20190117_1243\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.DigitalDisplayControl.resources
+D:\20190117_1243\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.IconLamp.resources
+D:\20190117_1243\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.Keypad.resources
+D:\20190117_1243\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.Lamp.resources
+D:\20190117_1243\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.ListViewEx.resources
+D:\20190117_1243\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.MsgBox.resources
+D:\20190117_1243\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+D:\20190117_1243\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.OutlookPanelEx.resources
+D:\20190117_1243\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.PingChecker.resources
+D:\20190117_1243\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.ProgressIndicator.resources
+D:\20190117_1243\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.StopWatchEx.resources
+D:\20190117_1243\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.TitleLamp.resources
+D:\20190117_1243\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.VerticalProgressBar.resources
+D:\20190117_1243\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.csproj.GenerateResource.Cache
+D:\20190117_1243\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.dll
+D:\20190117_1243\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.pdb
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190119_2339\IDMAX_FrameWork_1.0\bin\Release\IDMAX_FrameWork.dll
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190119_2339\IDMAX_FrameWork_1.0\bin\Release\IDMAX_FrameWork.pdb
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190119_2339\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.csprojResolveAssemblyReference.cache
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190119_2339\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.CollapsiblePanel.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190119_2339\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.CollapsiblePanelOld.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190119_2339\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.DigitalDisplayControl.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190119_2339\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.IconLamp.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190119_2339\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.Keypad.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190119_2339\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.Lamp.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190119_2339\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.ListViewEx.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190119_2339\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.MsgBox.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190119_2339\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190119_2339\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.OutlookPanelEx.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190119_2339\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.PingChecker.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190119_2339\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.ProgressIndicator.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190119_2339\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.StopWatchEx.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190119_2339\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.TitleLamp.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190119_2339\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.VerticalProgressBar.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190119_2339\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.csproj.GenerateResource.Cache
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190119_2339\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.dll
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190119_2339\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.pdb
+D:\20190120_2100\IDMAX_FrameWork_1.0\bin\Release\IDMAX_FrameWork.dll
+D:\20190120_2100\IDMAX_FrameWork_1.0\bin\Release\IDMAX_FrameWork.pdb
+D:\20190120_2100\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.csprojResolveAssemblyReference.cache
+D:\20190120_2100\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.CollapsiblePanel.resources
+D:\20190120_2100\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.CollapsiblePanelOld.resources
+D:\20190120_2100\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.DigitalDisplayControl.resources
+D:\20190120_2100\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.IconLamp.resources
+D:\20190120_2100\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.Keypad.resources
+D:\20190120_2100\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.Lamp.resources
+D:\20190120_2100\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.ListViewEx.resources
+D:\20190120_2100\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.MsgBox.resources
+D:\20190120_2100\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+D:\20190120_2100\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.OutlookPanelEx.resources
+D:\20190120_2100\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.PingChecker.resources
+D:\20190120_2100\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.ProgressIndicator.resources
+D:\20190120_2100\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.StopWatchEx.resources
+D:\20190120_2100\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.TitleLamp.resources
+D:\20190120_2100\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.VerticalProgressBar.resources
+D:\20190120_2100\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.csproj.GenerateResource.Cache
+D:\20190120_2100\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.dll
+D:\20190120_2100\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.pdb
+D:\20190124_1630\IDMAX_FrameWork_1.0\bin\Release\IDMAX_FrameWork.dll
+D:\20190124_1630\IDMAX_FrameWork_1.0\bin\Release\IDMAX_FrameWork.pdb
+D:\20190124_1630\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.csprojAssemblyReference.cache
+D:\20190124_1630\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.CollapsiblePanel.resources
+D:\20190124_1630\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.CollapsiblePanelOld.resources
+D:\20190124_1630\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.DigitalDisplayControl.resources
+D:\20190124_1630\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.IconLamp.resources
+D:\20190124_1630\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.Keypad.resources
+D:\20190124_1630\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.Lamp.resources
+D:\20190124_1630\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.ListViewEx.resources
+D:\20190124_1630\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.MsgBox.resources
+D:\20190124_1630\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+D:\20190124_1630\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.OutlookPanelEx.resources
+D:\20190124_1630\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.PingChecker.resources
+D:\20190124_1630\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.ProgressIndicator.resources
+D:\20190124_1630\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.StopWatchEx.resources
+D:\20190124_1630\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.TitleLamp.resources
+D:\20190124_1630\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.VerticalProgressBar.resources
+D:\20190124_1630\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.csproj.GenerateResource.cache
+D:\20190124_1630\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.csproj.CoreCompileInputs.cache
+D:\20190124_1630\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.dll
+D:\20190124_1630\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.pdb
+D:\20190124_2342\IDMAX_FrameWork_1.0\bin\Release\IDMAX_FrameWork.dll
+D:\20190124_2342\IDMAX_FrameWork_1.0\bin\Release\IDMAX_FrameWork.pdb
+D:\20190124_2342\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.csprojAssemblyReference.cache
+D:\20190124_2342\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.CollapsiblePanel.resources
+D:\20190124_2342\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.CollapsiblePanelOld.resources
+D:\20190124_2342\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.DigitalDisplayControl.resources
+D:\20190124_2342\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.IconLamp.resources
+D:\20190124_2342\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.Keypad.resources
+D:\20190124_2342\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.Lamp.resources
+D:\20190124_2342\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.ListViewEx.resources
+D:\20190124_2342\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.MsgBox.resources
+D:\20190124_2342\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+D:\20190124_2342\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.OutlookPanelEx.resources
+D:\20190124_2342\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.PingChecker.resources
+D:\20190124_2342\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.ProgressIndicator.resources
+D:\20190124_2342\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.StopWatchEx.resources
+D:\20190124_2342\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.TitleLamp.resources
+D:\20190124_2342\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.VerticalProgressBar.resources
+D:\20190124_2342\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.csproj.GenerateResource.cache
+D:\20190124_2342\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.csproj.CoreCompileInputs.cache
+D:\20190124_2342\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.dll
+D:\20190124_2342\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.pdb
+C:\Users\abc\Desktop\20190124_2342_1호기\IDMAX_FrameWork_1.0\bin\Release\IDMAX_FrameWork.dll
+C:\Users\abc\Desktop\20190124_2342_1호기\IDMAX_FrameWork_1.0\bin\Release\IDMAX_FrameWork.pdb
+C:\Users\abc\Desktop\20190124_2342_1호기\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.csprojResolveAssemblyReference.cache
+C:\Users\abc\Desktop\20190124_2342_1호기\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.CollapsiblePanel.resources
+C:\Users\abc\Desktop\20190124_2342_1호기\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.CollapsiblePanelOld.resources
+C:\Users\abc\Desktop\20190124_2342_1호기\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.DigitalDisplayControl.resources
+C:\Users\abc\Desktop\20190124_2342_1호기\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.IconLamp.resources
+C:\Users\abc\Desktop\20190124_2342_1호기\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.Keypad.resources
+C:\Users\abc\Desktop\20190124_2342_1호기\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.Lamp.resources
+C:\Users\abc\Desktop\20190124_2342_1호기\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.ListViewEx.resources
+C:\Users\abc\Desktop\20190124_2342_1호기\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.MsgBox.resources
+C:\Users\abc\Desktop\20190124_2342_1호기\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+C:\Users\abc\Desktop\20190124_2342_1호기\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.OutlookPanelEx.resources
+C:\Users\abc\Desktop\20190124_2342_1호기\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.PingChecker.resources
+C:\Users\abc\Desktop\20190124_2342_1호기\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.ProgressIndicator.resources
+C:\Users\abc\Desktop\20190124_2342_1호기\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.StopWatchEx.resources
+C:\Users\abc\Desktop\20190124_2342_1호기\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.TitleLamp.resources
+C:\Users\abc\Desktop\20190124_2342_1호기\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.VerticalProgressBar.resources
+C:\Users\abc\Desktop\20190124_2342_1호기\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.csproj.GenerateResource.Cache
+C:\Users\abc\Desktop\20190124_2342_1호기\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.dll
+C:\Users\abc\Desktop\20190124_2342_1호기\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.pdb
+C:\Users\abc\Desktop\20190131_1820_1,2호기통합\IDMAX_FrameWork_1.0\bin\Release\IDMAX_FrameWork.dll
+C:\Users\abc\Desktop\20190131_1820_1,2호기통합\IDMAX_FrameWork_1.0\bin\Release\IDMAX_FrameWork.pdb
+C:\Users\abc\Desktop\20190131_1820_1,2호기통합\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.csprojResolveAssemblyReference.cache
+C:\Users\abc\Desktop\20190131_1820_1,2호기통합\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.CollapsiblePanel.resources
+C:\Users\abc\Desktop\20190131_1820_1,2호기통합\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.CollapsiblePanelOld.resources
+C:\Users\abc\Desktop\20190131_1820_1,2호기통합\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.DigitalDisplayControl.resources
+C:\Users\abc\Desktop\20190131_1820_1,2호기통합\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.IconLamp.resources
+C:\Users\abc\Desktop\20190131_1820_1,2호기통합\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.Keypad.resources
+C:\Users\abc\Desktop\20190131_1820_1,2호기통합\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.Lamp.resources
+C:\Users\abc\Desktop\20190131_1820_1,2호기통합\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.ListViewEx.resources
+C:\Users\abc\Desktop\20190131_1820_1,2호기통합\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.MsgBox.resources
+C:\Users\abc\Desktop\20190131_1820_1,2호기통합\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+C:\Users\abc\Desktop\20190131_1820_1,2호기통합\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.OutlookPanelEx.resources
+C:\Users\abc\Desktop\20190131_1820_1,2호기통합\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.PingChecker.resources
+C:\Users\abc\Desktop\20190131_1820_1,2호기통합\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.ProgressIndicator.resources
+C:\Users\abc\Desktop\20190131_1820_1,2호기통합\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.StopWatchEx.resources
+C:\Users\abc\Desktop\20190131_1820_1,2호기통합\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.TitleLamp.resources
+C:\Users\abc\Desktop\20190131_1820_1,2호기통합\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.VerticalProgressBar.resources
+C:\Users\abc\Desktop\20190131_1820_1,2호기통합\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.csproj.GenerateResource.Cache
+C:\Users\abc\Desktop\20190131_1820_1,2호기통합\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.dll
+C:\Users\abc\Desktop\20190131_1820_1,2호기통합\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.pdb
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190207_1550_64bit\IDMAX_FrameWork_1.0\bin\Release\IDMAX_FrameWork.dll
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190207_1550_64bit\IDMAX_FrameWork_1.0\bin\Release\IDMAX_FrameWork.pdb
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190207_1550_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.csprojResolveAssemblyReference.cache
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190207_1550_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.CollapsiblePanel.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190207_1550_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.CollapsiblePanelOld.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190207_1550_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.DigitalDisplayControl.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190207_1550_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.IconLamp.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190207_1550_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.Keypad.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190207_1550_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.Lamp.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190207_1550_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.ListViewEx.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190207_1550_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.MsgBox.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190207_1550_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190207_1550_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.OutlookPanelEx.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190207_1550_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.PingChecker.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190207_1550_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.ProgressIndicator.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190207_1550_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.StopWatchEx.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190207_1550_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.TitleLamp.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190207_1550_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.VerticalProgressBar.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190207_1550_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.csproj.GenerateResource.Cache
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190207_1550_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.dll
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\201901_Chem Tech\PG\20190207_1550_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.pdb
+C:\20190214_1645_64bit\IDMAX_FrameWork_1.0\bin\Release\IDMAX_FrameWork.dll
+C:\20190214_1645_64bit\IDMAX_FrameWork_1.0\bin\Release\IDMAX_FrameWork.pdb
+C:\20190214_1645_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.csprojResolveAssemblyReference.cache
+C:\20190214_1645_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.CollapsiblePanel.resources
+C:\20190214_1645_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.CollapsiblePanelOld.resources
+C:\20190214_1645_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.DigitalDisplayControl.resources
+C:\20190214_1645_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.IconLamp.resources
+C:\20190214_1645_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.Keypad.resources
+C:\20190214_1645_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.Lamp.resources
+C:\20190214_1645_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.ListViewEx.resources
+C:\20190214_1645_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.MsgBox.resources
+C:\20190214_1645_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+C:\20190214_1645_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.OutlookPanelEx.resources
+C:\20190214_1645_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.PingChecker.resources
+C:\20190214_1645_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.ProgressIndicator.resources
+C:\20190214_1645_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.StopWatchEx.resources
+C:\20190214_1645_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.TitleLamp.resources
+C:\20190214_1645_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.CustomControl.VerticalProgressBar.resources
+C:\20190214_1645_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.csproj.GenerateResource.Cache
+C:\20190214_1645_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.dll
+C:\20190214_1645_64bit\IDMAX_FrameWork_1.0\obj\Release\IDMAX_FrameWork.pdb
+E:\MX_Inspection_190425\IDMAX_FrameWork_1.2\bin\Release\IDMAX_FrameWork.dll
+E:\MX_Inspection_190425\IDMAX_FrameWork_1.2\bin\Release\IDMAX_FrameWork.pdb
+E:\MX_Inspection_190425\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.csprojResolveAssemblyReference.cache
+E:\MX_Inspection_190425\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.CollapsiblePanel.resources
+E:\MX_Inspection_190425\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.CollapsiblePanelOld.resources
+E:\MX_Inspection_190425\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.DigitalDisplayControl.resources
+E:\MX_Inspection_190425\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.IconLamp.resources
+E:\MX_Inspection_190425\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.Keypad.resources
+E:\MX_Inspection_190425\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.Lamp.resources
+E:\MX_Inspection_190425\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.ListViewEx.resources
+E:\MX_Inspection_190425\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.MsgBox.resources
+E:\MX_Inspection_190425\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+E:\MX_Inspection_190425\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.OutlookPanelEx.resources
+E:\MX_Inspection_190425\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.PingChecker.resources
+E:\MX_Inspection_190425\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.ProgressIndicator.resources
+E:\MX_Inspection_190425\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.StopWatchEx.resources
+E:\MX_Inspection_190425\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.TitleLamp.resources
+E:\MX_Inspection_190425\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.VerticalProgressBar.resources
+E:\MX_Inspection_190425\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.Properties.Resources.resources
+E:\MX_Inspection_190425\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.csproj.GenerateResource.Cache
+E:\MX_Inspection_190425\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.dll
+E:\MX_Inspection_190425\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.pdb
+D:\MX_Inspection_190425_v2\IDMAX_FrameWork_1.2\bin\Release\IDMAX_FrameWork.dll
+D:\MX_Inspection_190425_v2\IDMAX_FrameWork_1.2\bin\Release\IDMAX_FrameWork.pdb
+D:\MX_Inspection_190425_v2\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.csprojResolveAssemblyReference.cache
+D:\MX_Inspection_190425_v2\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.CollapsiblePanel.resources
+D:\MX_Inspection_190425_v2\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.CollapsiblePanelOld.resources
+D:\MX_Inspection_190425_v2\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.DigitalDisplayControl.resources
+D:\MX_Inspection_190425_v2\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.IconLamp.resources
+D:\MX_Inspection_190425_v2\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.Keypad.resources
+D:\MX_Inspection_190425_v2\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.Lamp.resources
+D:\MX_Inspection_190425_v2\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.ListViewEx.resources
+D:\MX_Inspection_190425_v2\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.MsgBox.resources
+D:\MX_Inspection_190425_v2\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+D:\MX_Inspection_190425_v2\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.OutlookPanelEx.resources
+D:\MX_Inspection_190425_v2\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.PingChecker.resources
+D:\MX_Inspection_190425_v2\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.ProgressIndicator.resources
+D:\MX_Inspection_190425_v2\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.StopWatchEx.resources
+D:\MX_Inspection_190425_v2\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.TitleLamp.resources
+D:\MX_Inspection_190425_v2\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.CustomControl.VerticalProgressBar.resources
+D:\MX_Inspection_190425_v2\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.Properties.Resources.resources
+D:\MX_Inspection_190425_v2\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.csproj.GenerateResource.Cache
+D:\MX_Inspection_190425_v2\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.dll
+D:\MX_Inspection_190425_v2\IDMAX_FrameWork_1.2\obj\Release\IDMAX_FrameWork.pdb
