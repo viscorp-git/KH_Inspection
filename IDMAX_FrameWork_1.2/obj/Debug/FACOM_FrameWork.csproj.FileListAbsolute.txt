@@ -1,0 +1,836 @@
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.Cache
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+C:\BCR_Install_File\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+C:\BCR_Install_File\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+C:\BCR_Install_File\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+C:\BCR_Install_File\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csprojAssemblyReference.cache
+C:\BCR_Install_File\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+C:\BCR_Install_File\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+C:\BCR_Install_File\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+C:\BCR_Install_File\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+C:\BCR_Install_File\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+C:\BCR_Install_File\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+C:\BCR_Install_File\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+C:\BCR_Install_File\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+C:\BCR_Install_File\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+C:\BCR_Install_File\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+C:\BCR_Install_File\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+C:\BCR_Install_File\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+C:\BCR_Install_File\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+C:\BCR_Install_File\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+C:\BCR_Install_File\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+C:\BCR_Install_File\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+C:\BCR_Install_File\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.cache
+C:\BCR_Install_File\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.CoreCompileInputs.cache
+C:\BCR_Install_File\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.CopyComplete
+C:\BCR_Install_File\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+C:\BCR_Install_File\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+C:\BCR_Install_File\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+C:\BCR_Install_File\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\따오기\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\따오기\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\따오기\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\따오기\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\따오기\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\따오기\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\따오기\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\따오기\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\따오기\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\따오기\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\따오기\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\따오기\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\따오기\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\따오기\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\따오기\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\따오기\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\따오기\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\따오기\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\따오기\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\따오기\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\따오기\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\따오기\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.Cache
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\따오기\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+D:\MR_CHOI_Work\Mr_CHOI\업체관련자료\190722_퍼시스(신성FA)\PG\따오기\Barcode_Printer_PG\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+C:\BCR_Install_File\Barcode_Printer_PG_v1\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+C:\BCR_Install_File\Barcode_Printer_PG_v1\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+C:\BCR_Install_File\Barcode_Printer_PG_v1\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+C:\BCR_Install_File\Barcode_Printer_PG_v1\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+C:\BCR_Install_File\Barcode_Printer_PG_v1\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+C:\BCR_Install_File\Barcode_Printer_PG_v1\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csprojAssemblyReference.cache
+C:\BCR_Install_File\Barcode_Printer_PG_v1\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+C:\BCR_Install_File\Barcode_Printer_PG_v1\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+C:\BCR_Install_File\Barcode_Printer_PG_v1\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+C:\BCR_Install_File\Barcode_Printer_PG_v1\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+C:\BCR_Install_File\Barcode_Printer_PG_v1\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+C:\BCR_Install_File\Barcode_Printer_PG_v1\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+C:\BCR_Install_File\Barcode_Printer_PG_v1\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+C:\BCR_Install_File\Barcode_Printer_PG_v1\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+C:\BCR_Install_File\Barcode_Printer_PG_v1\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+C:\BCR_Install_File\Barcode_Printer_PG_v1\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+C:\BCR_Install_File\Barcode_Printer_PG_v1\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+C:\BCR_Install_File\Barcode_Printer_PG_v1\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+C:\BCR_Install_File\Barcode_Printer_PG_v1\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+C:\BCR_Install_File\Barcode_Printer_PG_v1\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+C:\BCR_Install_File\Barcode_Printer_PG_v1\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+C:\BCR_Install_File\Barcode_Printer_PG_v1\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+C:\BCR_Install_File\Barcode_Printer_PG_v1\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.cache
+C:\BCR_Install_File\Barcode_Printer_PG_v1\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.CoreCompileInputs.cache
+C:\BCR_Install_File\Barcode_Printer_PG_v1\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.CopyComplete
+C:\BCR_Install_File\Barcode_Printer_PG_v1\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+C:\BCR_Install_File\Barcode_Printer_PG_v1\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_Cutting\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_Cutting\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_Cutting\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_Cutting\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_Cutting\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_Cutting\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csprojAssemblyReference.cache
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_Cutting\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_Cutting\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_Cutting\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_Cutting\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_Cutting\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_Cutting\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_Cutting\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_Cutting\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_Cutting\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_Cutting\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_Cutting\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_Cutting\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_Cutting\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_Cutting\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_Cutting\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_Cutting\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_Cutting\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.cache
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_Cutting\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_Cutting\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.CopyComplete
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_Cutting\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_Cutting\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+D:\차성우\20190712\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190906\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+D:\차성우\20190712\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190906\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+D:\차성우\20190712\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190906\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+D:\차성우\20190712\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190906\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+D:\차성우\20190712\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190906\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+D:\차성우\20190712\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190906\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csprojAssemblyReference.cache
+D:\차성우\20190712\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190906\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+D:\차성우\20190712\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190906\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+D:\차성우\20190712\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190906\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+D:\차성우\20190712\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190906\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+D:\차성우\20190712\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190906\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+D:\차성우\20190712\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190906\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+D:\차성우\20190712\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190906\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+D:\차성우\20190712\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190906\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+D:\차성우\20190712\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190906\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+D:\차성우\20190712\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190906\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+D:\차성우\20190712\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190906\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+D:\차성우\20190712\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190906\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+D:\차성우\20190712\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190906\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+D:\차성우\20190712\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190906\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+D:\차성우\20190712\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190906\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+D:\차성우\20190712\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190906\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+D:\차성우\20190712\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190906\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.cache
+D:\차성우\20190712\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190906\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.CoreCompileInputs.cache
+D:\차성우\20190712\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190906\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.CopyComplete
+D:\차성우\20190712\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190906\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+D:\차성우\20190712\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190906\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+C:\Users\owner\Desktop\Barcode_Printer_20190909\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+C:\Users\owner\Desktop\Barcode_Printer_20190909\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\owner\Desktop\Barcode_Printer_20190909\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+C:\Users\owner\Desktop\Barcode_Printer_20190909\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+C:\Users\owner\Desktop\Barcode_Printer_20190909\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+C:\Users\owner\Desktop\Barcode_Printer_20190909\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csprojAssemblyReference.cache
+C:\Users\owner\Desktop\Barcode_Printer_20190909\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+C:\Users\owner\Desktop\Barcode_Printer_20190909\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+C:\Users\owner\Desktop\Barcode_Printer_20190909\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+C:\Users\owner\Desktop\Barcode_Printer_20190909\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+C:\Users\owner\Desktop\Barcode_Printer_20190909\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+C:\Users\owner\Desktop\Barcode_Printer_20190909\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+C:\Users\owner\Desktop\Barcode_Printer_20190909\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+C:\Users\owner\Desktop\Barcode_Printer_20190909\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+C:\Users\owner\Desktop\Barcode_Printer_20190909\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+C:\Users\owner\Desktop\Barcode_Printer_20190909\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+C:\Users\owner\Desktop\Barcode_Printer_20190909\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+C:\Users\owner\Desktop\Barcode_Printer_20190909\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+C:\Users\owner\Desktop\Barcode_Printer_20190909\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+C:\Users\owner\Desktop\Barcode_Printer_20190909\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+C:\Users\owner\Desktop\Barcode_Printer_20190909\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+C:\Users\owner\Desktop\Barcode_Printer_20190909\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+C:\Users\owner\Desktop\Barcode_Printer_20190909\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.cache
+C:\Users\owner\Desktop\Barcode_Printer_20190909\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\Barcode_Printer_20190909\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.CopyComplete
+C:\Users\owner\Desktop\Barcode_Printer_20190909\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+C:\Users\owner\Desktop\Barcode_Printer_20190909\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190918\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190918\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190918\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190918\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190918\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190918\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csprojAssemblyReference.cache
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190918\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190918\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190918\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190918\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190918\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190918\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190918\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190918\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190918\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190918\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190918\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190918\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190918\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190918\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190918\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190918\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190918\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.cache
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190918\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190918\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.CopyComplete
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190918\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+C:\Users\owner\Desktop\IDMAX\프로젝트\퍼시스\Barcode_Printer_20190918\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+D:\SetupProgram\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+D:\SetupProgram\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+D:\SetupProgram\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+D:\SetupProgram\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+D:\SetupProgram\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+D:\SetupProgram\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csprojAssemblyReference.cache
+D:\SetupProgram\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+D:\SetupProgram\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+D:\SetupProgram\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+D:\SetupProgram\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+D:\SetupProgram\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+D:\SetupProgram\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+D:\SetupProgram\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+D:\SetupProgram\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+D:\SetupProgram\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+D:\SetupProgram\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+D:\SetupProgram\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+D:\SetupProgram\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+D:\SetupProgram\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+D:\SetupProgram\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+D:\SetupProgram\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+D:\SetupProgram\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+D:\SetupProgram\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.cache
+D:\SetupProgram\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.CoreCompileInputs.cache
+D:\SetupProgram\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.CopyComplete
+D:\SetupProgram\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+D:\SetupProgram\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+D:\SETUP\SETUP program\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+D:\SETUP\SETUP program\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+D:\SETUP\SETUP program\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+D:\SETUP\SETUP program\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+D:\SETUP\SETUP program\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+D:\SETUP\SETUP program\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csprojAssemblyReference.cache
+D:\SETUP\SETUP program\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+D:\SETUP\SETUP program\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+D:\SETUP\SETUP program\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+D:\SETUP\SETUP program\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+D:\SETUP\SETUP program\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+D:\SETUP\SETUP program\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+D:\SETUP\SETUP program\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+D:\SETUP\SETUP program\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+D:\SETUP\SETUP program\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+D:\SETUP\SETUP program\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+D:\SETUP\SETUP program\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+D:\SETUP\SETUP program\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+D:\SETUP\SETUP program\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+D:\SETUP\SETUP program\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+D:\SETUP\SETUP program\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+D:\SETUP\SETUP program\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+D:\SETUP\SETUP program\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.cache
+D:\SETUP\SETUP program\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.CoreCompileInputs.cache
+D:\SETUP\SETUP program\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.CopyComplete
+D:\SETUP\SETUP program\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+D:\SETUP\SETUP program\Barcode_Printer_20190919\MX_Pallet_Printer\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+C:\Users\1\Desktop\IDMAX\FrameWork_Test_Project\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\IDMAX\FrameWork_Test_Project\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+C:\Users\1\Desktop\IDMAX\FrameWork_Test_Project\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+C:\Users\1\Desktop\IDMAX\FrameWork_Test_Project\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+C:\Users\1\Desktop\IDMAX\FrameWork_Test_Project\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+C:\Users\1\Desktop\IDMAX\FrameWork_Test_Project\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+C:\Users\1\Desktop\IDMAX\FrameWork_Test_Project\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+C:\Users\1\Desktop\IDMAX\FrameWork_Test_Project\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+C:\Users\1\Desktop\IDMAX\FrameWork_Test_Project\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+C:\Users\1\Desktop\IDMAX\FrameWork_Test_Project\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+C:\Users\1\Desktop\IDMAX\FrameWork_Test_Project\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+C:\Users\1\Desktop\IDMAX\FrameWork_Test_Project\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+C:\Users\1\Desktop\IDMAX\FrameWork_Test_Project\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+C:\Users\1\Desktop\IDMAX\FrameWork_Test_Project\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+C:\Users\1\Desktop\IDMAX\FrameWork_Test_Project\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+C:\Users\1\Desktop\IDMAX\FrameWork_Test_Project\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+C:\Users\1\Desktop\IDMAX\FrameWork_Test_Project\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+C:\Users\1\Desktop\IDMAX\FrameWork_Test_Project\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\IDMAX\FrameWork_Test_Project\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+C:\Users\1\Desktop\IDMAX\FrameWork_Test_Project\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+C:\Users\1\Desktop\IDMAX\WindowsFormsApplication1\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\IDMAX\WindowsFormsApplication1\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+C:\Users\1\Desktop\IDMAX\WindowsFormsApplication1\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+C:\Users\1\Desktop\IDMAX\WindowsFormsApplication1\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+C:\Users\1\Desktop\IDMAX\WindowsFormsApplication1\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+C:\Users\1\Desktop\IDMAX\WindowsFormsApplication1\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+C:\Users\1\Desktop\IDMAX\WindowsFormsApplication1\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+C:\Users\1\Desktop\IDMAX\WindowsFormsApplication1\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+C:\Users\1\Desktop\IDMAX\WindowsFormsApplication1\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+C:\Users\1\Desktop\IDMAX\WindowsFormsApplication1\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+C:\Users\1\Desktop\IDMAX\WindowsFormsApplication1\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+C:\Users\1\Desktop\IDMAX\WindowsFormsApplication1\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+C:\Users\1\Desktop\IDMAX\WindowsFormsApplication1\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+C:\Users\1\Desktop\IDMAX\WindowsFormsApplication1\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+C:\Users\1\Desktop\IDMAX\WindowsFormsApplication1\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+C:\Users\1\Desktop\IDMAX\WindowsFormsApplication1\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+C:\Users\1\Desktop\IDMAX\WindowsFormsApplication1\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+C:\Users\1\Desktop\IDMAX\WindowsFormsApplication1\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\IDMAX\WindowsFormsApplication1\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+C:\Users\1\Desktop\IDMAX\WindowsFormsApplication1\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+C:\Users\1\Desktop\IDMAX\WindowsFormsApplication1\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+C:\Users\1\Desktop\IDMAX\WindowsFormsApplication1\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\1\Desktop\IDMAX\WindowsFormsApplication1\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+C:\Users\1\Desktop\IDMAX\WindowsFormsApplication1\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+C:\Users\1\Desktop\IDMAX\WindowsFormsApplication1\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+C:\Users\1\Desktop\file\driver\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+C:\Users\1\Desktop\file\driver\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\1\Desktop\file\driver\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+C:\Users\1\Desktop\file\driver\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+C:\Users\1\Desktop\file\driver\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+C:\Users\1\Desktop\file\driver\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\file\driver\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+C:\Users\1\Desktop\file\driver\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+C:\Users\1\Desktop\file\driver\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+C:\Users\1\Desktop\file\driver\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+C:\Users\1\Desktop\file\driver\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+C:\Users\1\Desktop\file\driver\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+C:\Users\1\Desktop\file\driver\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+C:\Users\1\Desktop\file\driver\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+C:\Users\1\Desktop\file\driver\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+C:\Users\1\Desktop\file\driver\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+C:\Users\1\Desktop\file\driver\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+C:\Users\1\Desktop\file\driver\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+C:\Users\1\Desktop\file\driver\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+C:\Users\1\Desktop\file\driver\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+C:\Users\1\Desktop\file\driver\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+C:\Users\1\Desktop\file\driver\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+C:\Users\1\Desktop\file\driver\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\file\driver\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+C:\Users\1\Desktop\file\driver\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+D:\GSChem\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+D:\GSChem\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+D:\GSChem\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+D:\GSChem\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+D:\GSChem\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+D:\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csprojAssemblyReference.cache
+D:\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+D:\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+D:\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+D:\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+D:\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+D:\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+D:\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+D:\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+D:\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+D:\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+D:\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+D:\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+D:\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+D:\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+D:\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+D:\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+D:\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.cache
+D:\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.CoreCompileInputs.cache
+D:\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.CopyComplete
+D:\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+D:\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+C:\Users\1\Desktop\GSChem\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+C:\Users\1\Desktop\GSChem\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\1\Desktop\GSChem\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+C:\Users\1\Desktop\GSChem\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+C:\Users\1\Desktop\GSChem\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+C:\Users\1\Desktop\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+C:\Users\1\Desktop\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+C:\Users\1\Desktop\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+C:\Users\1\Desktop\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+C:\Users\1\Desktop\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+C:\Users\1\Desktop\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+C:\Users\1\Desktop\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+C:\Users\1\Desktop\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+C:\Users\1\Desktop\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+C:\Users\1\Desktop\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+C:\Users\1\Desktop\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+C:\Users\1\Desktop\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+C:\Users\1\Desktop\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+C:\Users\1\Desktop\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+C:\Users\1\Desktop\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+C:\Users\1\Desktop\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+C:\Users\1\Desktop\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+C:\Users\1\Desktop\GSChem\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+D:\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+D:\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+D:\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+D:\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+D:\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+D:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csprojAssemblyReference.cache
+D:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+D:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+D:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+D:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+D:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+D:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+D:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+D:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+D:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+D:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+D:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+D:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+D:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+D:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+D:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+D:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+D:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.cache
+D:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.CoreCompileInputs.cache
+D:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.CopyComplete
+D:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+D:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+C:\Users\1\Desktop\GSCham\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+C:\Users\1\Desktop\GSCham\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\1\Desktop\GSCham\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+C:\Users\1\Desktop\GSCham\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+C:\Users\1\Desktop\GSCham\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+C:\Users\1\Desktop\GSCham\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\GSCham\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+C:\Users\1\Desktop\GSCham\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+C:\Users\1\Desktop\GSCham\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+C:\Users\1\Desktop\GSCham\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+C:\Users\1\Desktop\GSCham\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+C:\Users\1\Desktop\GSCham\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+C:\Users\1\Desktop\GSCham\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+C:\Users\1\Desktop\GSCham\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+C:\Users\1\Desktop\GSCham\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+C:\Users\1\Desktop\GSCham\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+C:\Users\1\Desktop\GSCham\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+C:\Users\1\Desktop\GSCham\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+C:\Users\1\Desktop\GSCham\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+C:\Users\1\Desktop\GSCham\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+C:\Users\1\Desktop\GSCham\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+C:\Users\1\Desktop\GSCham\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+C:\Users\1\Desktop\GSCham\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\GSCham\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+C:\Users\1\Desktop\GSCham\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+C:\Users\1\Desktop\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+C:\Users\1\Desktop\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\1\Desktop\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+C:\Users\1\Desktop\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+C:\Users\1\Desktop\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+C:\Users\1\Desktop\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+C:\Users\1\Desktop\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+C:\Users\1\Desktop\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+C:\Users\1\Desktop\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+C:\Users\1\Desktop\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+C:\Users\1\Desktop\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+C:\Users\1\Desktop\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+C:\Users\1\Desktop\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+C:\Users\1\Desktop\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+C:\Users\1\Desktop\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+C:\Users\1\Desktop\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+C:\Users\1\Desktop\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+C:\Users\1\Desktop\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+C:\Users\1\Desktop\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+C:\Users\1\Desktop\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+C:\Users\1\Desktop\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+C:\Users\1\Desktop\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+C:\Users\1\Desktop\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+D:\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+D:\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+D:\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+D:\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+D:\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+D:\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+D:\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+D:\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+D:\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+D:\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+D:\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+D:\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+D:\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+D:\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+D:\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+D:\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+D:\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+D:\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+D:\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+D:\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+D:\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+D:\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.Cache
+D:\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+D:\GSChem\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+C:\Users\1\Desktop\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+C:\Users\1\Desktop\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\1\Desktop\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+C:\Users\1\Desktop\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+C:\Users\1\Desktop\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+C:\Users\1\Desktop\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+C:\Users\1\Desktop\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+C:\Users\1\Desktop\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+C:\Users\1\Desktop\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+C:\Users\1\Desktop\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+C:\Users\1\Desktop\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+C:\Users\1\Desktop\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+C:\Users\1\Desktop\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+C:\Users\1\Desktop\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+C:\Users\1\Desktop\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+C:\Users\1\Desktop\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+C:\Users\1\Desktop\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+C:\Users\1\Desktop\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+C:\Users\1\Desktop\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+C:\Users\1\Desktop\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+C:\Users\1\Desktop\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+C:\Users\1\Desktop\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+C:\Users\1\Desktop\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+E:\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+E:\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+E:\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+E:\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+E:\GSChem_Source\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+E:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csprojResolveAssemblyReference.cache
+E:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+E:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+E:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+E:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+E:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+E:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+E:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+E:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+E:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+E:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+E:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+E:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+E:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+E:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+E:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+E:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+E:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.Cache
+E:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+E:\GSChem_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+C:\Users\1\Desktop\file\2020\혼입방지_RS232_TCP\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+C:\Users\1\Desktop\file\2020\혼입방지_RS232_TCP\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\1\Desktop\file\2020\혼입방지_RS232_TCP\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+C:\Users\1\Desktop\file\2020\혼입방지_RS232_TCP\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+C:\Users\1\Desktop\file\2020\혼입방지_RS232_TCP\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+C:\Users\1\Desktop\file\2020\혼입방지_RS232_TCP\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\file\2020\혼입방지_RS232_TCP\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+C:\Users\1\Desktop\file\2020\혼입방지_RS232_TCP\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+C:\Users\1\Desktop\file\2020\혼입방지_RS232_TCP\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+C:\Users\1\Desktop\file\2020\혼입방지_RS232_TCP\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+C:\Users\1\Desktop\file\2020\혼입방지_RS232_TCP\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+C:\Users\1\Desktop\file\2020\혼입방지_RS232_TCP\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+C:\Users\1\Desktop\file\2020\혼입방지_RS232_TCP\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+C:\Users\1\Desktop\file\2020\혼입방지_RS232_TCP\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+C:\Users\1\Desktop\file\2020\혼입방지_RS232_TCP\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+C:\Users\1\Desktop\file\2020\혼입방지_RS232_TCP\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+C:\Users\1\Desktop\file\2020\혼입방지_RS232_TCP\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+C:\Users\1\Desktop\file\2020\혼입방지_RS232_TCP\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+C:\Users\1\Desktop\file\2020\혼입방지_RS232_TCP\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+C:\Users\1\Desktop\file\2020\혼입방지_RS232_TCP\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+C:\Users\1\Desktop\file\2020\혼입방지_RS232_TCP\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+C:\Users\1\Desktop\file\2020\혼입방지_RS232_TCP\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+C:\Users\1\Desktop\file\2020\혼입방지_RS232_TCP\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\file\2020\혼입방지_RS232_TCP\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+C:\Users\1\Desktop\file\2020\혼입방지_RS232_TCP\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\OJC\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+C:\Users\1\Documents\Visual Studio 2015\Projects\OJC\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\1\Documents\Visual Studio 2015\Projects\OJC\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+C:\Users\1\Documents\Visual Studio 2015\Projects\OJC\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\OJC\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+C:\Users\1\Documents\Visual Studio 2015\Projects\OJC\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2015\Projects\OJC\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\OJC\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\OJC\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\OJC\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\OJC\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\OJC\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\OJC\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\OJC\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\OJC\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\OJC\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\OJC\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\OJC\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\OJC\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\OJC\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\OJC\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\OJC\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\OJC\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.Cache
+C:\Users\1\Documents\Visual Studio 2015\Projects\OJC\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+C:\Users\1\Documents\Visual Studio 2015\Projects\OJC\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+D:\OJC\OJC_Source\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+D:\OJC\OJC_Source\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+D:\OJC\OJC_Source\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+D:\OJC\OJC_Source\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+D:\OJC\OJC_Source\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+D:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+D:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+D:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+D:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+D:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+D:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+D:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+D:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+D:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+D:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+D:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+D:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+D:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+D:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+D:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+D:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+D:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.Cache
+D:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+D:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+D:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csprojResolveAssemblyReference.cache
+E:\OJC\OJC_Source\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+E:\OJC\OJC_Source\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+E:\OJC\OJC_Source\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+E:\OJC\OJC_Source\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+E:\OJC\OJC_Source\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+E:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csprojResolveAssemblyReference.cache
+E:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+E:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+E:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+E:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+E:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+E:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+E:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+E:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+E:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+E:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+E:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+E:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+E:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+E:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+E:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+E:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+E:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.Cache
+E:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+E:\OJC\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+C:\Users\1\Documents\카카오톡 받은 파일\OJC_Source\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+C:\Users\1\Documents\카카오톡 받은 파일\OJC_Source\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\1\Documents\카카오톡 받은 파일\OJC_Source\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+C:\Users\1\Documents\카카오톡 받은 파일\OJC_Source\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+C:\Users\1\Documents\카카오톡 받은 파일\OJC_Source\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+C:\Users\1\Documents\카카오톡 받은 파일\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\카카오톡 받은 파일\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+C:\Users\1\Documents\카카오톡 받은 파일\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+C:\Users\1\Documents\카카오톡 받은 파일\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+C:\Users\1\Documents\카카오톡 받은 파일\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+C:\Users\1\Documents\카카오톡 받은 파일\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+C:\Users\1\Documents\카카오톡 받은 파일\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+C:\Users\1\Documents\카카오톡 받은 파일\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+C:\Users\1\Documents\카카오톡 받은 파일\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+C:\Users\1\Documents\카카오톡 받은 파일\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+C:\Users\1\Documents\카카오톡 받은 파일\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+C:\Users\1\Documents\카카오톡 받은 파일\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+C:\Users\1\Documents\카카오톡 받은 파일\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+C:\Users\1\Documents\카카오톡 받은 파일\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+C:\Users\1\Documents\카카오톡 받은 파일\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+C:\Users\1\Documents\카카오톡 받은 파일\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+C:\Users\1\Documents\카카오톡 받은 파일\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+C:\Users\1\Documents\카카오톡 받은 파일\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.Cache
+C:\Users\1\Documents\카카오톡 받은 파일\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+C:\Users\1\Documents\카카오톡 받은 파일\OJC_Source\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+D:\OJC_Source_수정_201027\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+D:\OJC_Source_수정_201027\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+D:\OJC_Source_수정_201027\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+D:\OJC_Source_수정_201027\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+D:\OJC_Source_수정_201027\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+D:\OJC_Source_수정_201027\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csprojResolveAssemblyReference.cache
+D:\OJC_Source_수정_201027\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+D:\OJC_Source_수정_201027\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+D:\OJC_Source_수정_201027\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+D:\OJC_Source_수정_201027\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+D:\OJC_Source_수정_201027\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+D:\OJC_Source_수정_201027\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+D:\OJC_Source_수정_201027\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+D:\OJC_Source_수정_201027\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+D:\OJC_Source_수정_201027\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+D:\OJC_Source_수정_201027\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+D:\OJC_Source_수정_201027\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+D:\OJC_Source_수정_201027\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+D:\OJC_Source_수정_201027\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+D:\OJC_Source_수정_201027\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+D:\OJC_Source_수정_201027\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+D:\OJC_Source_수정_201027\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+D:\OJC_Source_수정_201027\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.Cache
+D:\OJC_Source_수정_201027\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+D:\OJC_Source_수정_201027\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+C:\Users\1\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+C:\Users\1\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\1\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+C:\Users\1\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+C:\Users\1\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+C:\Users\1\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+C:\Users\1\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+C:\Users\1\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+C:\Users\1\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+C:\Users\1\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+C:\Users\1\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+C:\Users\1\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+C:\Users\1\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+C:\Users\1\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+C:\Users\1\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+C:\Users\1\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+C:\Users\1\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+C:\Users\1\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+C:\Users\1\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+C:\Users\1\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+C:\Users\1\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+C:\Users\1\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+C:\Users\1\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+C:\Users\HOME\Desktop\FURSYS AGV PG\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+C:\Users\HOME\Desktop\FURSYS AGV PG\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\HOME\Desktop\FURSYS AGV PG\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+C:\Users\HOME\Desktop\FURSYS AGV PG\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+C:\Users\HOME\Desktop\FURSYS AGV PG\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+C:\Users\HOME\Desktop\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csprojResolveAssemblyReference.cache
+C:\Users\HOME\Desktop\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+C:\Users\HOME\Desktop\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+C:\Users\HOME\Desktop\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+C:\Users\HOME\Desktop\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+C:\Users\HOME\Desktop\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+C:\Users\HOME\Desktop\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+C:\Users\HOME\Desktop\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+C:\Users\HOME\Desktop\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+C:\Users\HOME\Desktop\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+C:\Users\HOME\Desktop\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+C:\Users\HOME\Desktop\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+C:\Users\HOME\Desktop\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+C:\Users\HOME\Desktop\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+C:\Users\HOME\Desktop\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+C:\Users\HOME\Desktop\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+C:\Users\HOME\Desktop\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+C:\Users\HOME\Desktop\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.Cache
+C:\Users\HOME\Desktop\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+C:\Users\HOME\Desktop\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+C:\Users\HOME\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+C:\Users\HOME\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\HOME\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+C:\Users\HOME\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+C:\Users\HOME\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+C:\Users\HOME\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+C:\Users\HOME\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+C:\Users\HOME\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+C:\Users\HOME\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+C:\Users\HOME\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+C:\Users\HOME\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+C:\Users\HOME\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+C:\Users\HOME\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+C:\Users\HOME\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+C:\Users\HOME\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+C:\Users\HOME\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+C:\Users\HOME\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+C:\Users\HOME\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+C:\Users\HOME\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+C:\Users\HOME\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+C:\Users\HOME\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+C:\Users\HOME\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.Cache
+C:\Users\HOME\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+C:\Users\HOME\Desktop\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+D:\FURSYS AGV PG\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+D:\FURSYS AGV PG\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+D:\FURSYS AGV PG\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+D:\FURSYS AGV PG\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+D:\FURSYS AGV PG\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+D:\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csprojAssemblyReference.cache
+D:\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+D:\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+D:\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+D:\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+D:\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+D:\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+D:\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+D:\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+D:\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+D:\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+D:\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+D:\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+D:\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+D:\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+D:\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+D:\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+D:\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.cache
+D:\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.CoreCompileInputs.cache
+D:\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.CopyComplete
+D:\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+D:\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+C:\Users\1\Desktop\file\2021\퍼시스 안성\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+C:\Users\1\Desktop\file\2021\퍼시스 안성\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\1\Desktop\file\2021\퍼시스 안성\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+C:\Users\1\Desktop\file\2021\퍼시스 안성\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+C:\Users\1\Desktop\file\2021\퍼시스 안성\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+C:\Users\1\Desktop\file\2021\퍼시스 안성\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\file\2021\퍼시스 안성\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+C:\Users\1\Desktop\file\2021\퍼시스 안성\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+C:\Users\1\Desktop\file\2021\퍼시스 안성\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+C:\Users\1\Desktop\file\2021\퍼시스 안성\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+C:\Users\1\Desktop\file\2021\퍼시스 안성\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+C:\Users\1\Desktop\file\2021\퍼시스 안성\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+C:\Users\1\Desktop\file\2021\퍼시스 안성\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+C:\Users\1\Desktop\file\2021\퍼시스 안성\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+C:\Users\1\Desktop\file\2021\퍼시스 안성\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+C:\Users\1\Desktop\file\2021\퍼시스 안성\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+C:\Users\1\Desktop\file\2021\퍼시스 안성\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+C:\Users\1\Desktop\file\2021\퍼시스 안성\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+C:\Users\1\Desktop\file\2021\퍼시스 안성\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+C:\Users\1\Desktop\file\2021\퍼시스 안성\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+C:\Users\1\Desktop\file\2021\퍼시스 안성\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+C:\Users\1\Desktop\file\2021\퍼시스 안성\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+C:\Users\1\Desktop\file\2021\퍼시스 안성\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\file\2021\퍼시스 안성\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+C:\Users\1\Desktop\file\2021\퍼시스 안성\FURSYS AGV\FURSYS AGV PG\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
+C:\Users\1\Desktop\FURSYS AGV PG_Delay\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.resx
+C:\Users\1\Desktop\FURSYS AGV PG_Delay\IDMAX_FrameWork_1.2\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\1\Desktop\FURSYS AGV PG_Delay\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.dll
+C:\Users\1\Desktop\FURSYS AGV PG_Delay\IDMAX_FrameWork_1.2\bin\Debug\FACOM_FrameWork.pdb
+C:\Users\1\Desktop\FURSYS AGV PG_Delay\IDMAX_FrameWork_1.2\bin\Debug\IPAddressControlLib.dll
+C:\Users\1\Desktop\FURSYS AGV PG_Delay\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\FURSYS AGV PG_Delay\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanel.resources
+C:\Users\1\Desktop\FURSYS AGV PG_Delay\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.CollapsiblePanelOld.resources
+C:\Users\1\Desktop\FURSYS AGV PG_Delay\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.DigitalDisplayControl.resources
+C:\Users\1\Desktop\FURSYS AGV PG_Delay\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.IconLamp.resources
+C:\Users\1\Desktop\FURSYS AGV PG_Delay\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Keypad.resources
+C:\Users\1\Desktop\FURSYS AGV PG_Delay\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.Lamp.resources
+C:\Users\1\Desktop\FURSYS AGV PG_Delay\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ListViewEx.resources
+C:\Users\1\Desktop\FURSYS AGV PG_Delay\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.MsgBox.resources
+C:\Users\1\Desktop\FURSYS AGV PG_Delay\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OptimizedCircularProgressControl.resources
+C:\Users\1\Desktop\FURSYS AGV PG_Delay\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.OutlookPanelEx.resources
+C:\Users\1\Desktop\FURSYS AGV PG_Delay\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.PingChecker.resources
+C:\Users\1\Desktop\FURSYS AGV PG_Delay\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.ProgressIndicator.resources
+C:\Users\1\Desktop\FURSYS AGV PG_Delay\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.StopWatchEx.resources
+C:\Users\1\Desktop\FURSYS AGV PG_Delay\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.TitleLamp.resources
+C:\Users\1\Desktop\FURSYS AGV PG_Delay\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.CustomControl.VerticalProgressBar.resources
+C:\Users\1\Desktop\FURSYS AGV PG_Delay\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.Properties.Resources.resources
+C:\Users\1\Desktop\FURSYS AGV PG_Delay\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\FURSYS AGV PG_Delay\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.dll
+C:\Users\1\Desktop\FURSYS AGV PG_Delay\IDMAX_FrameWork_1.2\obj\Debug\FACOM_FrameWork.pdb
